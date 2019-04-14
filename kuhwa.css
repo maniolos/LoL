@@ -357,7 +357,7 @@ body::before {
 /*3. Chat*/
 /*3.a. Messages and Codeblocks*/
 .da-containerCozy .inner-zqa7da {
-	background:rgba(0,0,0,0.25) !important;
+	background:rgba(0,0,0,1) !important;
 }
 [class*="avatar-"], .image-33JSyf {
 	box-shadow: 0.5px 0.5px 2px black !important;
@@ -393,7 +393,7 @@ body::before {
 	box-shadow:none !important;
 }
 .message-2qRu38 {
-	background:transparent !important;
+	background:rgb(255, 255, 255) !important;
 	border:none !important;
 	box-shadow:none !important;
 }
